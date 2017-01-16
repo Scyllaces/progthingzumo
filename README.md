@@ -1,2 +1,0 @@
-# progthingzumo
-First Assignment
